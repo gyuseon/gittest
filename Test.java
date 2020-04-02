@@ -4,6 +4,7 @@ public class Test{
 		System.out.println("Hello World");
 		System.out.println("hotfix add");
 		System.out.println("master add");
+		System.out.println("hotfix add2");
 	}
 
 
